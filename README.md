@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm pursuing a Bachelor of Technology in Artificia
 
 ## 📫 Contact Me
 - **Phone**: +91-7310773036
-- **Email**: [harshitpluss@gmail.com](mailto:harshitpluss@gmail.com)
+- **Email**: [harshittomar045@gmail.com](mailto:harshittomar045@gmail.com)
 - **LinkedIn**: [Harshit Tomar](https://linkedin.com/in/harshit-handle)
 - **GitHub**: [owl-Dr](https://github.com/owl-Dr)
 
